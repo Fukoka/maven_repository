@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fukoka</groupId>
+  <artifactId>f_users_core</artifactId>
+  <versioning>
+    <release>1.0.42</release>
+    <versions>
+      <version>1.0.41</version>
+      <version>1.0.42</version>
+    </versions>
+    <lastUpdated>20191111131508</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fukoka</groupId>
+  <artifactId>f_embedded_web</artifactId>
+  <versioning>
+    <release>1.0.51</release>
+    <versions>
+      <version>1.0.50</version>
+      <version>1.0.51</version>
+    </versions>
+    <lastUpdated>20191111132200</lastUpdated>
+  </versioning>
+</metadata>

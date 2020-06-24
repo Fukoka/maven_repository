@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fukoka</groupId>
+  <artifactId>f_users_cli</artifactId>
+  <versioning>
+    <release>2.0.8</release>
+    <versions>
+      <version>2.0.4</version>
+      <version>2.0.5</version>
+      <version>2.0.6</version>
+      <version>2.0.7</version>
+      <version>2.0.8</version>
+    </versions>
+    <lastUpdated>20191201064820</lastUpdated>
+  </versioning>
+</metadata>
