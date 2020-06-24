@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fukoka</groupId>
+  <artifactId>f_bin</artifactId>
+  <version>0.15.65-CHANGING+master-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191118.054712</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191118054712</lastUpdated>
+  </versioning>
+</metadata>
